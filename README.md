@@ -32,7 +32,7 @@ To run this project on your local machine, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/water-potability-prediction.git
+git clone [https://github.com/your-username/water-potability-prediction.git](https://github.com/asif4762/Is-the-Water-Drinkable-.git)
 cd water-potability-prediction
 ```
 
